@@ -2,7 +2,6 @@
 
 A front-end web project designed as an e-commerce landing page, simulating platforms like Trendyol or Hepsiburada. It presents category cards, campaign sliders, and product showcases powered by mock JSON data.
 
-Special thanks to [WeatherAPI](https://www.weatherapi.com/weather/q/izmir-2437419) for providing weather data used in the widget.
 
 ## 📌 Project Overview
 
