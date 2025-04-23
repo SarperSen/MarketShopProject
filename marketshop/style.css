@@ -923,119 +923,184 @@
 
 
 
-  /* RESPONSIVE */
 
 
-@media screen and (max-width: 480px) {
+/* Responsive */
 
-  /* NAVBAR */
+@media screen and (max-width: 768px) {
+
+  /* Genel dış boşlukları kıs */
+  .logo,
+  .category-left,
+  .special-products-title,
+  .special-products-inner,
+  .campaign-section,
+  .slider-section-1,
+  .slider-section-2,
+  .footer {
+    margin-left: 16px !important;
+    margin-right: 16px !important;
+  }
+
+  /* NAVBAR ÜST KISMI */
+
+  .navbar {
+    position: static !important;
+    top: auto !important;
+    z-index: auto !important;
+    background-color: white !important;
+  }
+
   .navbar-top {
     flex-direction: column;
-    padding: 12px;
-    gap: 10px;
+    align-items: stretch;
+    padding: 16px;
+    gap: 12px;
+    position: static; /* Sabitlik kaldırıldı */
+    top: auto;
+    z-index: auto;
   }
 
   .logo {
-    font-size: 1.2rem;
-    text-align: center;
     margin-left: 0;
+    text-align: center;
+    font-size: 1.4rem;
   }
 
   .search-box {
-    flex-direction: column;
-    padding: 8px;
-    gap: 6px;
+    width: 100%;
+    margin-top: 8px;
   }
 
-  /* BUTONLAR */
   .user-buttons {
-    flex-direction: column;
-    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
     margin: 0 auto;
   }
 
   .user-buttons button {
-    width: 100%;
-    font-size: 0.85rem;
+    flex: 1 1 120px;
+    text-align: center;
   }
 
-  /* KATEGORİ LİNKLERİ */
+  /* KATEGORİ MENÜ */
+  .category-menu {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px 16px;
+    gap: 16px;
+  }
+
+  .category-left {
+    position: static;
+    z-index: auto;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #ff6600;
+    padding: 10px 14px;
+    font-size: 1rem;
+    justify-content: center;
+  }
+
+  .menu-icon {
+    font-size: 1.2rem;
+  }
+
   .category-links {
     flex-direction: column;
-    gap: 12px;
-  }
-
-  .category-links li a {
-    font-size: 0.95rem;
+    align-items: center;
+    margin-left: 0;
+    gap: 10px;
   }
 
   .category-special {
     flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
     gap: 10px;
   }
 
+  /* TÜM KATEGORİLER PANELİ */
+  .side-category-panel {
+    position: static; /* artık sabit değil */
+    width: 100%;
+    background-color: #fafafa;
+    box-shadow: none;
+    z-index: auto;
+    border-radius: 0;
+    padding: 12px 0;
+  }
+
+  .side-category-panel ul li {
+    padding: 10px 16px;
+    text-align: center;
+  }
+
+  .side-category-panel ul li a {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #333;
+  }
+
+  .side-category-panel ul li a:hover {
+    color: #ff6600;
+  }
+
   /* SLIDER */
+  .slider-wrapper {
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+
   .slider-section-1,
   .slider-section-2 {
     width: 100% !important;
-    height: auto !important;
-    margin: 0 !important;
-    border-radius: 12px;
+    margin: 0 auto !important;
   }
 
-  .slider-item-1 img,
-  .slider-item-2 img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  /* SLIDER ITEM 2 içeriği küçültülsün */
-  .slider-item-2 {
-    flex-direction: column;
-    height: auto;
-    padding: 10px;
-    gap: 8px;
-    width: 100%;
-  }
-
-  .slider-item-2 img {
-    width: 100%;
-    height: auto;
-  }
-
-  /* ÖZEL ÜRÜNLER */
+  /* SANA ÖZEL ÜRÜNLER */
   .special-products-title {
-    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 0 !important;
   }
 
-  .special-card {
-    width: 100%;
-    padding: 8px;
-  }
-
-  .special-card .product-name {
-    font-size: 0.7rem;
-  }
-
-  .special-card .product-price {
-    font-size: 0.85rem;
+  .special-products-inner {
+    margin: 0 16px !important;
   }
 
   /* FOOTER */
   .footer {
-    padding: 24px 12px;
+    padding: 40px 16px !important;
   }
 
-  .footer-column h4 {
-    font-size: 0.95rem;
+  .footer-section {
+    flex-direction: column;
+    gap: 20px;
   }
 
-  .footer-column ul {
-    font-size: 0.8rem;
+  .footer-column {
+    margin-right: 0;
+    width: 100%;
   }
 
-  .social-icons img {
-    width: 28px;
+  .footer-certificates {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .certificates,
+  .payments,
+  .mobile-apps {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .footer-certificates img {
+    margin-bottom: 12px;
   }
 }
 
