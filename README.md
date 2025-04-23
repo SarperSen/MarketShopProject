@@ -2,6 +2,7 @@
 
 A front-end web project designed as an e-commerce landing page, simulating platforms like Trendyol or Hepsiburada. It presents category cards, campaign sliders, and product showcases powered by mock JSON data.
 
+[Live Link to this project](https://sarpersen.github.io/MarketShopProject/marketshop/index.html)
 
 ## 📌 Project Overview
 
