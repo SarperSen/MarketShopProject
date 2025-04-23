@@ -1,0 +1,46 @@
+
+{
+  "sliderTwo_electricCards": [
+    {
+      "id": 1,
+      "productLink": "https://www.hepsiburada.com/grundig-55-gju-7000-b-55-138-ekran-uydu-alicili-4k-ultra-hd-smart-google-led-tv-p-HBCV00007V3EIT?magaza=Grundig+T%C3%BCrkiye",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/208-264/110000897706198.jpg/format:webp",
+      "productName": "Grundig 55 GJU 7000 B 55\" 138 Ekran Uydu Alıcılı 4K Ultra HD Smart Google LED TV",
+      "rating": "3.5/5 - 9",
+      "price": "19.499,50 TL"
+    },
+    {
+      "id": 2,
+      "productLink": "https://www.hepsiburada.com/lenovo-tab-m9-4gb-64gb-9-hd-ips-tablet-p-HBCV00004IJ34I?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/424/208-264/110000454620713.jpg/format:webp",
+      "productName": "Lenovo Tab M9 4GB 64GB 9\" Hd IPS Tablet",
+      "rating": "4.7/5 - 359",
+      "price": "3.899,00 TL"
+    },
+    {
+      "id": 3,
+      "productLink": "https://www.hepsiburada.com/samsung-samsung-galaxy-watch7-akilli-saat-haki-44mm-sm-l310nzgatur-samsung-turkiye-garantili-p-HBCV00006M8GIZ?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000722516885.jpg/format:webp",
+      "productName": "Samsung Samsung Galaxy Watch7 Akıllı Saat Haki 44MM SM-L310NZGATUR (Samsung Türkiye Garantili)",
+      "rating": "4.8/5 - 307",
+      "price": "7.310,00 TL"
+    },
+    {
+      "id": 4,
+      "productLink": "https://www.hepsiburada.com/philips-10000-mah-powerbank-22-5w-pd-4-portlu-led-gostergeli-tasinabilir-hizli-sarj-cihazi-p-HBCV00002W51HK?magaza=Teknostore",
+      "imageLink": "https://productimages.hepsiburada.net/s/336/104-132/110000341500857.jpg/format:webp",
+      "productName": "Philips 10000 mAh Powerbank 22.5W PD 4 Portlu LED Göstergeli Taşınabilir Hızlı Şarj Cihazı",
+      "rating": "4.6/5 - 1937",
+      "price": "2.699,10 TL"
+    },
+    {
+      "id": 5,
+      "productLink": "https://www.hepsiburada.com/kampanyalar/secili-televizyonlarda-sepette-5-indirim",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000699321709.jpg/format:webp",
+      "productName": "Televizyonlarda Sepette %5 net İndirim",
+      "rating": "-",
+      "price": "-"
+    }
+  ],
+  "backgroundImage": "https://images.hepsiburada.net/banners/s/1/980-530/930x530_(3)133891869153318564.jpg"
+}

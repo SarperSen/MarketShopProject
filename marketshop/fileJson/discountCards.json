@@ -1,0 +1,64 @@
+{
+  "discount_cards" : [
+  {
+    "id": 1,
+    "kartLink": "https://www.hepsiburada.com/dv/premium-nisan-indirimleri?trackingId=12626027",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/kazandiran_premium_gunleri-jenerik-tr133888508401525459.png/format:webp",
+    "buttonText": "Alışverişe Başla"
+  },
+  {
+    "id": 2,
+    "kartLink": "https://www.hepsiburada.com/dv/premium-kuponlari?trackingId=12626109",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/kupon-jenerik-tr-2133888512030179327.png/format:webp",
+    "buttonText": "Acele et Kaçırma!!!"
+  },
+  {
+    "id": 3,
+    "kartLink": "https://www.hepsiburada.com/dv/dort-dort-kampanya?trackingId=12626052",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/dort_dortluk-jenerik-tr133888509812747370.png/format:webp",
+    "buttonText": "Fırsatlara Bak"
+  },
+  {
+    "id": 4,
+    "kartLink": "https://www.hepsiburada.com/dv/alisverisin-top-listesi?trackingId=12626054",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/alisverisin_top_listesi-tr133888510590342344.png/format:webp",
+    "buttonText": "Sevilen Ürünler"
+  },
+  {
+    "id": 5,
+    "kartLink": "https://www.hepsiburada.com/dv/ceyiz-paketleri?trackingId=12671814",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/ceyiz_alisverisi-tr133891959605488678.png/format:webp",
+    "buttonText": "Alışverişe Başla"
+  },
+  {
+    "id": 6,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/tefal-markali-urunlerde-bugune-ozel-firsatlar?trackingId=12665438",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/tefal-tr_(15)133891743869688842.png/format:webp",
+    "buttonText": "Tefal"
+  },
+  {
+    "id": 7,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/pasabahce-urunlerinde-kacirilmaz-firsatlar?trackingId=12669947",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/pasabahce-tr_(15)133891892914265262.png/format:webp",
+    "buttonText": "Paşabahçe"
+  },
+  {
+    "id": 8,
+    "kartLink": "https://www.hepsiburada.com/dv/elektronik-firsatlari?trackingId=12680215",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/elektronik-jenerik-tr_(9)133890809028966425.png/format:webp",
+    "buttonText": "Elektronik"
+  },
+  {
+    "id": 9,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/guzellikte-1200-300-indirim-kuponu?trackingId=12626548",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/guzellik_urunleri-tr_(2)133888523709007705.png/format:webp",
+    "buttonText": "Güzellik Ürünleri"
+  },
+  {
+    "id": 10,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/800-200-spm-kupon?siralama=coksatan&trackingId=12650219",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/supermarket-750-tr(1)133890591756520545.png/format:webp",
+    "buttonText": "Süpermarket"
+  }
+]
+}

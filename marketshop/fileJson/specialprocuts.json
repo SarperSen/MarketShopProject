@@ -1,0 +1,68 @@
+{
+  "special_products": [
+    {
+      "id": 1,
+      "productLink": "https://www.hepsiburada.com/samsung-samsung-galaxy-watch7-akilli-saat-haki-44mm-sm-l310nzgatur-samsung-turkiye-garantili-p-HBCV00006M8GIZ?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000722516885.jpg/format:webp",
+      "productName": "Samsung Samsung Galaxy Watch7 Akıllı Saat Haki 44MM SM-L310NZGATUR (Samsung Türkiye Garantili)",
+      "rating": "4.8/5 - 307",
+      "price": "7.310,00 TL"
+    },
+    {
+      "id": 2,
+      "productLink": "https://www.hepsiburada.com/apple-watch-series-10-gps-46mm-silver-aluminium-case-with-blue-cloud-sport-loop-p-HBCV00006ZWFO1",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000773544274.jpg/format:webp",
+      "productName": "Apple Watch Series 10 Gps 46MM Silver Aluminium Case With Blue Cloud Sport Loop",
+      "rating": "4.7/5 - 49",
+      "price": "17.999,00 TL"
+    },
+    {
+      "id": 3,
+      "productLink": "https://www.hepsiburada.com/gliss-full-hair-wonder-sampuan-400-ml-p-HBCV00007V3KFA",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000897728609.jpg/format:webp",
+      "productName": "Gliss Full Hair Wonder Şampuan 400 ml",
+      "rating": "4.9/5 - 27",
+      "price": "140,90 TL"
+    },
+    {
+      "id": 4,
+      "productLink": "https://www.hepsiburada.com/gliss-full-hair-wonder-sivi-sac-bakim-kremi-200-ml-p-HBCV00007V3KFG?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000897614017.jpg/format:webp",
+      "productName": "Gliss Full Hair Wonder Sıvı Saç Bakım Kremi 200 ml",
+      "rating": "4.7/5 - 3",
+      "price": "179,80 TL"
+    },
+    {
+      "id": 5,
+      "productLink": "https://www.hepsiburada.com/old-spice-captain-deo-stick-50-ml-dus-jeli-250-ml-giftpack-p-HBCV00007CJVLI",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000835556260.jpg/format:webp",
+      "productName": "Old Spice Captain Deo Stick 50 ml + Duş Jeli 250 ml Giftpack",
+      "rating": "4.9/5 - 48",
+      "price": "199,90 TL"
+    },
+    {
+      "id": 6,
+      "productLink": "https://www.hepsiburada.com/duracell-alkalin-aa-kalem-pil-1-5-v-lr6-mn1500-10-lu-paket-p-HBV00000QORTC",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000765338553.jpg/format:webp",
+      "productName": "Duracell Alkalin AA Kalem Pil, 1,5 V LR6/MN1500, 10’lu paket",
+      "rating": "4.8/5 - 16997",
+      "price": "243,00 TL"
+    },
+    {
+      "id": 7,
+      "productLink": "https://www.hepsiburada.com/hp-250-g10-intel-core-i5-1334u-16gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-b2nc5es-p-HBCV00007MQXDE",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000858243222.jpg/format:webp",
+      "productName": "HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6\" Taşınabilir Bilgisayar B2NC5ES",
+      "rating": "4.7/5 - 100",
+      "price": "14.999,00 TL"
+    },
+    {
+      "id": 8,
+      "productLink": "https://www.hepsiburada.com/asus-tuf-gaming-m3-gen-ii-aura-sync-rgb-8000-dpi-sensor-60-milyon-tiklama-omru-59-gram-hafif-tasarim-oyuncu-mouse-p-HBCV00004Z7585",
+      "imageLink": "https://productimages.hepsiburada.net/s/468/200-200/110000506050793.jpg/format:webp",
+      "productName": "Asus TUF GAMING M3 GEN II AURA SYNC RGB 8000 DPI SENSOR 60 MİLYON TIKLAMA ÖMRÜ 59 GRAM HAFIF TASARIM OYUNCU MOUSE",
+      "rating": "4.7/5 - 875",
+      "price": "775,00 TL"
+    }
+  ]
+}

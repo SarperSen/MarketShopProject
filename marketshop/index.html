@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MarketShop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ÜST BANNER -->
+  <div class="top-banner">
+    <img src="https://cdn.dsmcdn.com/seometa/production/banner/national/web-home-page-top-tr-TR-1744837200000-eyiziniinalmanntamvakti_web_banner2290x130.gif" alt="Kampanya Bannerı">
+  </div>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+
+    <div class="navbar-top">
+      <!-- Sol: Logo -->
+      <div class="logo">marketshop</div>
+  
+      <!-- Orta: Arama Kutusu -->
+      <div class="search-box">
+        <input type="text" placeholder="Aradığınız ürün, kategori veya markayı yazınız">
+        <button><i class="search-icon">🔍</i></button>
+      </div>
+  
+      <!-- Sağ: Kullanıcı Butonları -->
+      <div class="user-buttons">
+        <button><i>👤</i> Giriş Yap</button>
+        <button><i>🤍</i> Favorilerim</button>
+        <button><i>🛒</i> Sepetim</button>
+      </div>
+    </div>
+  
+    <!-- Alt Menü (Kategoriler) -->
+    <div class="category-menu">
+
+      <!-- Açılır Sol Menü (Tüm Kategoriler Paneli) -->
+      <div class="side-category-panel" id="sideCategoryPanel">
+        <ul>
+          <li><a href="#">Kadın</a></li>
+          <li><a href="#">Erkek</a></li>
+          <li><a href="#">Anne & Çocuk</a></li>
+          <li><a href="#">Ev & Mobilya</a></li>
+          <li><a href="#">Süpermarket</a></li>
+          <li><a href="#">Kozmetik</a></li>
+          <li><a href="#">Ayakkabı & Çanta</a></li>
+          <li><a href="#">Elektronik</a></li>
+          <li><a href="#">Spor & Outdoor</a></li>
+          <li><a href="#">Kitap & Kırtasiye & Hobi</a></li>
+        </ul>
+      </div>
+
+      <!-- Sol: Tüm Kategoriler -->
+      <div class="category-left" id="categoryLeft">
+        <i class="menu-icon">≡</i>
+        <span class="menu-label">TÜM KATEGORİLER</span>
+      </div>      
+    
+      <!-- Orta: Kategoriler -->
+      <ul class="category-links">
+        <li class="has-submenu">
+          <a href="#">Kadın</a>
+          <ul class="submenu">
+            <li><a href="#">Elbise</a></li>
+            <li><a href="#">Tunik</a></li>
+            <li><a href="#">Bluz</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Erkek</a>
+          <ul class="submenu">
+            <li><a href="#">Gömlek</a></li>
+            <li><a href="#">Ceket</a></li>
+            <li><a href="#">Pantolon</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Anne & Çocuk</a>
+          <ul class="submenu">
+            <li><a href="#">Bebek Giyim</a></li>
+            <li><a href="#">Hamile Ürünleri</a></li>
+            <li><a href="#">Bebek Oyuncakları</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Ev & Yaşam</a>
+          <ul class="submenu">
+            <li><a href="#">Mobilya</a></li>
+            <li><a href="#">Ev Tekstili</a></li>
+            <li><a href="#">Dekorasyon</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Kozmetik</a>
+          <ul class="submenu">
+            <li><a href="#">Cilt Bakımı</a></li>
+            <li><a href="#">Makyaj</a></li>
+            <li><a href="#">Parfüm</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Ayakkabı & Çanta</a>
+          <ul class="submenu">
+            <li><a href="#">Kadın Ayakkabı</a></li>
+            <li><a href="#">Erkek Ayakkabı</a></li>
+            <li><a href="#">Sırt Çantası</a></li>
+          </ul>
+        </li>
+      
+        <li class="has-submenu">
+          <a href="#">Elektronik</a>
+          <ul class="submenu">
+            <li><a href="#">Telefon</a></li>
+            <li><a href="#">Bilgisayar</a></li>
+            <li><a href="#">Aksesuar</a></li>
+          </ul>
+        </li>
+      </ul>
+      
+      
+    
+      <!-- Sağ: Özel Linkler -->
+      <div class="category-special">
+        <a href="#"><i>🎯</i> Çok Satanlar</a>
+        <a href="#"><i>⚡</i> Flaş Ürünler</a>
+      </div>
+
+    </div>
+    
+
+  </nav>
+
+
+
+  <!-- ÖZEL İNDİRİM KARTLARI -->
+
+  <section class="campaign-section">
+    <div class="campaign-container" id="campaign-list">
+    </div>
+  </section>
+  
+
+  <!-- === SLIDER WRAPPER === -->
+  <div class="slider-wrapper">
+    
+    <!-- SOL: SLIDER 1 -->
+    <section class="slider-section-1">
+        <div class="slider-container-1" id="slider-container-1"></div>
+        <button class="slider-btn-1 left" id="prevBtn1">❮</button>
+        <button class="slider-btn-1 right" id="nextBtn1">❯</button>
+    </section>
+
+    <!-- SAĞ: SLIDER 2 -->
+    <section class="slider-section-2">
+      <div class="slider-inner-2">
+        <button class="slider-btn-2 left" id="prevBtn2">❮</button>
+    
+        <div class="slider-content-2" id="slider-content-2"></div>
+    
+        <button class="slider-btn-2 right" id="nextBtn2">❯</button>
+      </div>
+    </section>
+    
+
+  </div>
+
+
+
+  <!-- === SANA ÖZEL ÜRÜNLER === -->
+<section class="special-products-wrapper">
+  <h2 class="special-products-title">Sana Özel Ürünler</h2>
+
+  <div class="special-products-inner">
+    <button class="special-btn left" id="special-prev">❮</button>
+
+    <div class="special-products-scroll" id="special-products-scroll"></div>
+
+    <button class="special-btn right" id="special-next">❯</button>
+  </div>
+</section>
+
+
+
+<!-- === FOOTER === -->
+<footer class="footer">
+  <div class="footer-section">
+
+    <div class="footer-column">
+      <h4>Marketshop</h4>
+      <ul>
+        <li>Biz Kimiz</li>
+        <li>Kariyer</li>
+        <li>Sürdürülebilirlik</li>
+        <li>İletişim</li>
+        <li>Marketshop'da Güvenlik</li>
+        <li>Ürün Geri Çağırma</li>
+      </ul>
+    </div>
+
+    <div class="footer-column">
+      <h4>Kampanyalar</h4>
+      <ul>
+        <li>Kampanyalar</li>
+        <li>Alışveriş Kredisi</li>
+        <li>Elit Üyelik</li>
+        <li>Hediye Fikirleri</li>
+      </ul>
+    </div>
+
+    <div class="footer-column">
+      <h4>Satıcı</h4>
+      <ul>
+        <li>Marketshop'da Satış Yap</li>
+        <li>Temel Kavramlar</li>
+        <li>Marketshop Akademi</li>
+      </ul>
+    </div>
+
+    <div class="footer-column">
+      <h4>Yardım</h4>
+      <ul>
+        <li>Sıkça Sorulan Sorular</li>
+        <li>Canlı Yardım / Asistan</li>
+        <li>İade</li>
+        <li>İşlem Rehberi</li>
+      </ul>
+    </div>
+
+    <div class="footer-column">
+      <h4>Sosyal Medya</h4>
+      <div class="social-icons">
+        <img src="assets/icons/facebook.jpeg" alt="Facebook" />
+        <img src="assets/icons/footer-instagram.jpeg" alt="Instagram" />
+        <img src="assets/icons/youtube.jpeg" alt="YouTube" />
+        <img src="assets/icons/footer-x.jpeg" alt="X" />
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-certificates">
+    <div class="certificates">
+      <img src="assets/icons/footer-etbis.jpeg" alt="ETBIS">
+      <img src="assets/icons/tr-go.jpeg" alt="TRGO">
+      <img src="assets/icons/pci.jpeg" alt="PCI">
+      <img src="assets/icons/iso.jpeg" alt="ISO">
+    </div>
+    <div class="payments">
+      <img src="assets/icons/troy.jpeg" alt="Troy">
+      <img src="assets/icons/mastercard.jpeg" alt="MasterCard">
+      <img src="assets/icons/visa.jpeg" alt="Visa">
+      <img src="assets/icons/american_exp.jpeg" alt="Amex">
+    </div>
+    <div class="mobile-apps">
+      <img src="assets/icons/footer-app-store.jpeg" alt="App Store">
+      <img src="assets/icons/footer-google-play.jpeg" alt="Google Play">
+      <img src="assets/icons/footer-app-gallery.jpeg" alt="App Gallery">
+    </div>
+  </div>
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+  <script src="functions.js"></script>
+</body>
+</html>

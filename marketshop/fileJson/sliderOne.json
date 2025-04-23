@@ -1,0 +1,54 @@
+{
+  "sliderOne_cards": [
+    {
+      "id": 1,
+      "discountLink": "https://www.trendyol.com/sr?mid=63&tmpl=true&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/pimWidgetApi/mobile_20250413185917_3230534KadinMobile202504111702.jpg"
+    },
+    {
+      "id": 2,
+      "discountLink": "https://www.trendyol.com/sr?wg=3&mid=982060&lpd=30",
+      "imageLink": "https://cdn.dsmcdn.com/ty1664/pimWidgetApi/mobile_20250416081907_7.jpg"
+    },
+    {
+      "id": 3,
+      "discountLink": "https://www.trendyol.com/sr?mid=4442&prm=22369283",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/pimWidgetApi/mobile_20250415200937_3233160KadinMobile202504151301.jpg"
+    },
+    {
+      "id": 4,
+      "discountLink": "https://www.trendyol.com/sr?mid=775656&prm=21821462",
+      "imageLink": "https://cdn.dsmcdn.com/ty1658/pimWidgetApi/mobile_20250403185143_touche2al.jpg"
+    },
+    {
+      "id": 5,
+      "discountLink": "https://www.trendyol.com/sr?mid=139435&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1664/pimWidgetApi/mobile_20250415101908_3233401ErkekMobile202504151303.jpg"
+    },
+    {
+      "id": 6,
+      "discountLink": "https://www.trendyol.com/sr?wc=104510&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/tr-event-banner/b850429f-b2d8-4d2f-8766-6ff4a012ad36tr_3233207.jpeg"
+    },
+    {
+      "id": 7,
+      "discountLink": "https://www.trendyol.com/sr?wc=104156,103613,104078,1104,103109&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&mid=133078",
+      "imageLink": "https://cdn.dsmcdn.com/ty1663/tr-event-banner/cb9d19cb-30b5-4673-a746-89a9afc2a6a7tr_3233361.jpeg"
+    },
+    {
+      "id": 8,
+      "discountLink": "https://www.trendyol.com/sr?wb=102323&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&lc=106084&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1659/pimWidgetApi/mobile_20250407131505_9999999ElektronikMobile2025040715021.jpg"
+    },
+    {
+      "id": 9,
+      "discountLink": "https://www.trendyol.com/sr?wc=104156,103613,104078,1104,103109&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&mid=275331",
+      "imageLink": "https://cdn.dsmcdn.com/ty1663/tr-event-banner/f0bd8dd3-689d-4016-a13d-d14b7422fbadtr_3233359.jpeg"
+    },
+    {
+      "id": 10,
+      "discountLink": "https://www.trendyol.com/sr?prm=22154692&mid=239540&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1657/pimWidgetApi/mobile_20250402102632_3231706SupermarketMobile202504021204.jpg"
+    }
+  ]
+}

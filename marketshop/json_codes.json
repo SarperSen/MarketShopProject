@@ -1,0 +1,254 @@
+{
+  "special_products": [
+    {
+      "id": 1,
+      "productLink": "https://www.hepsiburada.com/samsung-samsung-galaxy-watch7-akilli-saat-haki-44mm-sm-l310nzgatur-samsung-turkiye-garantili-p-HBCV00006M8GIZ?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000722516885.jpg/format:webp",
+      "productName": "Samsung Samsung Galaxy Watch7 Akıllı Saat Haki 44MM SM-L310NZGATUR (Samsung Türkiye Garantili)",
+      "rating": "4.8/5 - 307",
+      "price": "7.310,00 TL"
+    },
+    {
+      "id": 2,
+      "productLink": "https://www.hepsiburada.com/apple-watch-series-10-gps-46mm-silver-aluminium-case-with-blue-cloud-sport-loop-p-HBCV00006ZWFO1",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000773544274.jpg/format:webp",
+      "productName": "Apple Watch Series 10 Gps 46MM Silver Aluminium Case With Blue Cloud Sport Loop",
+      "rating": "4.7/5 - 49",
+      "price": "17.999,00 TL"
+    },
+    {
+      "id": 3,
+      "productLink": "https://www.hepsiburada.com/gliss-full-hair-wonder-sampuan-400-ml-p-HBCV00007V3KFA",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000897728609.jpg/format:webp",
+      "productName": "Gliss Full Hair Wonder Şampuan 400 ml",
+      "rating": "4.9/5 - 27",
+      "price": "140,90 TL"
+    },
+    {
+      "id": 4,
+      "productLink": "https://www.hepsiburada.com/gliss-full-hair-wonder-sivi-sac-bakim-kremi-200-ml-p-HBCV00007V3KFG?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000897614017.jpg/format:webp",
+      "productName": "Gliss Full Hair Wonder Sıvı Saç Bakım Kremi 200 ml",
+      "rating": "4.7/5 - 3",
+      "price": "179,80 TL"
+    },
+    {
+      "id": 5,
+      "productLink": "https://www.hepsiburada.com/old-spice-captain-deo-stick-50-ml-dus-jeli-250-ml-giftpack-p-HBCV00007CJVLI",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000835556260.jpg/format:webp",
+      "productName": "Old Spice Captain Deo Stick 50 ml + Duş Jeli 250 ml Giftpack",
+      "rating": "4.9/5 - 48",
+      "price": "199,90 TL"
+    },
+    {
+      "id": 6,
+      "productLink": "https://www.hepsiburada.com/duracell-alkalin-aa-kalem-pil-1-5-v-lr6-mn1500-10-lu-paket-p-HBV00000QORTC",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000765338553.jpg/format:webp",
+      "productName": "Duracell Alkalin AA Kalem Pil, 1,5 V LR6/MN1500, 10’lu paket",
+      "rating": "4.8/5 - 16997",
+      "price": "243,00 TL"
+    },
+    {
+      "id": 7,
+      "productLink": "https://www.hepsiburada.com/hp-250-g10-intel-core-i5-1334u-16gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-b2nc5es-p-HBCV00007MQXDE",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/200-200/110000858243222.jpg/format:webp",
+      "productName": "HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6\" Taşınabilir Bilgisayar B2NC5ES",
+      "rating": "4.7/5 - 100",
+      "price": "14.999,00 TL"
+    },
+    {
+      "id": 8,
+      "productLink": "https://www.hepsiburada.com/asus-tuf-gaming-m3-gen-ii-aura-sync-rgb-8000-dpi-sensor-60-milyon-tiklama-omru-59-gram-hafif-tasarim-oyuncu-mouse-p-HBCV00004Z7585",
+      "imageLink": "https://productimages.hepsiburada.net/s/468/200-200/110000506050793.jpg/format:webp",
+      "productName": "Asus TUF GAMING M3 GEN II AURA SYNC RGB 8000 DPI SENSOR 60 MİLYON TIKLAMA ÖMRÜ 59 GRAM HAFIF TASARIM OYUNCU MOUSE",
+      "rating": "4.7/5 - 875",
+      "price": "775,00 TL"
+    }
+  ]
+}
+
+
+
+
+
+
+
+{
+  "discount_cards": [
+    {
+      "id": 1,
+      "discountLink": "https://www.trendyol.com/sr?mid=63&tmpl=true&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/pimWidgetApi/mobile_20250413185917_3230534KadinMobile202504111702.jpg"
+    },
+    {
+      "id": 2,
+      "discountLink": "https://www.trendyol.com/sr?wg=3&mid=982060&lpd=30",
+      "imageLink": "https://cdn.dsmcdn.com/ty1664/pimWidgetApi/mobile_20250416081907_7.jpg"
+    },
+    {
+      "id": 3,
+      "discountLink": "https://www.trendyol.com/sr?mid=4442&prm=22369283",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/pimWidgetApi/mobile_20250415200937_3233160KadinMobile202504151301.jpg"
+    },
+    {
+      "id": 4,
+      "discountLink": "https://www.trendyol.com/sr?mid=775656&prm=21821462",
+      "imageLink": "https://cdn.dsmcdn.com/ty1658/pimWidgetApi/mobile_20250403185143_touche2al.jpg"
+    },
+    {
+      "id": 5,
+      "discountLink": "https://www.trendyol.com/sr?mid=139435&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1664/pimWidgetApi/mobile_20250415101908_3233401ErkekMobile202504151303.jpg"
+    },
+    {
+      "id": 6,
+      "discountLink": "https://www.trendyol.com/sr?wc=104510&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu",
+      "imageLink": "https://cdn.dsmcdn.com/ty1662/tr-event-banner/b850429f-b2d8-4d2f-8766-6ff4a012ad36tr_3233207.jpeg"
+    },
+    {
+      "id": 7,
+      "discountLink": "https://www.trendyol.com/sr?wc=104156,103613,104078,1104,103109&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&mid=133078",
+      "imageLink": "https://cdn.dsmcdn.com/ty1663/tr-event-banner/cb9d19cb-30b5-4673-a746-89a9afc2a6a7tr_3233361.jpeg"
+    },
+    {
+      "id": 8,
+      "discountLink": "https://www.trendyol.com/sr?wb=102323&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&lc=106084&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1659/pimWidgetApi/mobile_20250407131505_9999999ElektronikMobile2025040715021.jpg"
+    },
+    {
+      "id": 9,
+      "discountLink": "https://www.trendyol.com/sr?wc=104156,103613,104078,1104,103109&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu&mid=275331",
+      "imageLink": "https://cdn.dsmcdn.com/ty1663/tr-event-banner/f0bd8dd3-689d-4016-a13d-d14b7422fbadtr_3233359.jpeg"
+    },
+    {
+      "id": 10,
+      "discountLink": "https://www.trendyol.com/sr?prm=22154692&mid=239540&os=1",
+      "imageLink": "https://cdn.dsmcdn.com/ty1657/pimWidgetApi/mobile_20250402102632_3231706SupermarketMobile202504021204.jpg"
+    }
+  ]
+}
+
+
+
+
+
+
+
+{
+  "sliderOne_cards" : [
+  {
+    "id": 1,
+    "kartLink": "https://www.hepsiburada.com/dv/premium-nisan-indirimleri?trackingId=12626027",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/kazandiran_premium_gunleri-jenerik-tr133888508401525459.png/format:webp",
+    "buttonText": "Alışverişe Başla"
+  },
+  {
+    "id": 2,
+    "kartLink": "https://www.hepsiburada.com/dv/premium-kuponlari?trackingId=12626109",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/kupon-jenerik-tr-2133888512030179327.png/format:webp",
+    "buttonText": "Acele et Kaçırma!!!"
+  },
+  {
+    "id": 3,
+    "kartLink": "https://www.hepsiburada.com/dv/dort-dort-kampanya?trackingId=12626052",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/dort_dortluk-jenerik-tr133888509812747370.png/format:webp",
+    "buttonText": "Fırsatlara Bak"
+  },
+  {
+    "id": 4,
+    "kartLink": "https://www.hepsiburada.com/dv/alisverisin-top-listesi?trackingId=12626054",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/alisverisin_top_listesi-tr133888510590342344.png/format:webp",
+    "buttonText": "Sevilen Ürünler"
+  },
+  {
+    "id": 5,
+    "kartLink": "https://www.hepsiburada.com/dv/ceyiz-paketleri?trackingId=12671814",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/ceyiz_alisverisi-tr133891959605488678.png/format:webp",
+    "buttonText": "Alışverişe Başla"
+  },
+  {
+    "id": 6,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/tefal-markali-urunlerde-bugune-ozel-firsatlar?trackingId=12665438",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/tefal-tr_(15)133891743869688842.png/format:webp",
+    "buttonText": "Tefal"
+  },
+  {
+    "id": 7,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/pasabahce-urunlerinde-kacirilmaz-firsatlar?trackingId=12669947",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/pasabahce-tr_(15)133891892914265262.png/format:webp",
+    "buttonText": "Paşabahçe"
+  },
+  {
+    "id": 8,
+    "kartLink": "https://www.hepsiburada.com/dv/elektronik-firsatlari?trackingId=12680215",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/elektronik-jenerik-tr_(9)133890809028966425.png/format:webp",
+    "buttonText": "Elektronik"
+  },
+  {
+    "id": 9,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/guzellikte-1200-300-indirim-kuponu?trackingId=12626548",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/guzellik_urunleri-tr_(2)133888523709007705.png/format:webp",
+    "buttonText": "Güzellik Ürünleri"
+  },
+  {
+    "id": 10,
+    "kartLink": "https://www.hepsiburada.com/kampanyalar/800-200-spm-kupon?siralama=coksatan&trackingId=12650219",
+    "resimLink": "https://images.hepsiburada.net/banners/s/1/360-360/supermarket-750-tr(1)133890591756520545.png/format:webp",
+    "buttonText": "Süpermarket"
+  }
+]
+}
+
+
+
+
+
+
+
+{
+  "sliderTwo_electricCards": [
+    {
+      "id": 1,
+      "productLink": "https://www.hepsiburada.com/grundig-55-gju-7000-b-55-138-ekran-uydu-alicili-4k-ultra-hd-smart-google-led-tv-p-HBCV00007V3EIT?magaza=Grundig+T%C3%BCrkiye",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/208-264/110000897706198.jpg/format:webp",
+      "productName": "Grundig 55 GJU 7000 B 55\" 138 Ekran Uydu Alıcılı 4K Ultra HD Smart Google LED TV",
+      "rating": "3.5/5 - 9",
+      "price": "19.499,50 TL"
+    },
+    {
+      "id": 2,
+      "productLink": "https://www.hepsiburada.com/lenovo-tab-m9-4gb-64gb-9-hd-ips-tablet-p-HBCV00004IJ34I?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/424/208-264/110000454620713.jpg/format:webp",
+      "productName": "Lenovo Tab M9 4GB 64GB 9\" Hd IPS Tablet",
+      "rating": "4.7/5 - 359",
+      "price": "3.899,00 TL"
+    },
+    {
+      "id": 3,
+      "productLink": "https://www.hepsiburada.com/samsung-samsung-galaxy-watch7-akilli-saat-haki-44mm-sm-l310nzgatur-samsung-turkiye-garantili-p-HBCV00006M8GIZ?magaza=Hepsiburada",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000722516885.jpg/format:webp",
+      "productName": "Samsung Samsung Galaxy Watch7 Akıllı Saat Haki 44MM SM-L310NZGATUR (Samsung Türkiye Garantili)",
+      "rating": "4.8/5 - 307",
+      "price": "7.310,00 TL"
+    },
+    {
+      "id": 4,
+      "productLink": "https://www.hepsiburada.com/philips-10000-mah-powerbank-22-5w-pd-4-portlu-led-gostergeli-tasinabilir-hizli-sarj-cihazi-p-HBCV00002W51HK?magaza=Teknostore",
+      "imageLink": "https://productimages.hepsiburada.net/s/336/104-132/110000341500857.jpg/format:webp",
+      "productName": "Philips 10000 mAh Powerbank 22.5W PD 4 Portlu LED Göstergeli Taşınabilir Hızlı Şarj Cihazı",
+      "rating": "4.6/5 - 1937",
+      "price": "2.699,10 TL"
+    },
+    {
+      "id": 5,
+      "productLink": "https://www.hepsiburada.com/kampanyalar/secili-televizyonlarda-sepette-5-indirim",
+      "imageLink": "https://productimages.hepsiburada.net/s/777/104-132/110000699321709.jpg/format:webp",
+      "productName": "Televizyonlarda Sepette %5 net İndirim",
+      "rating": "-",
+      "price": "-"
+    }
+  ],
+  "backgroundImage": "https://images.hepsiburada.net/banners/s/1/980-530/930x530_(3)133891869153318564.jpg"
+}
+
+
