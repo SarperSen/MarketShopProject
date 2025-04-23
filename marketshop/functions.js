@@ -47,7 +47,7 @@ function toggleSideCategoryPanel(show = null) {
 
 // KAMPANYA KARTLARI    discount_cards[]
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("https://run.mocky.io/v3/59a9d019-0495-497c-a0c4-f031049a2ebf")
+    fetch("https://sarpersen.github.io/MarketShopProject/marketshop/fileJson/discountCards.json")
       .then(response => response.json())
       .then(data => {
         const container = document.getElementById("campaign-list");
@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
 let sliderIndex1 = 0;
 
 function loadSlider1() {
-  fetch("https://run.mocky.io/v3/d6249ab9-2df3-4b8c-9c01-05f25ff56374")
+  fetch("https://sarpersen.github.io/MarketShopProject/marketshop/fileJson/sliderOne.json")
     .then(res => res.json())
     .then(data => {
       const sliderContainer = document.querySelector(".slider-container-1");
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const next = document.getElementById("nextBtn2");
     const prev = document.getElementById("prevBtn2");
   
-    fetch("https://run.mocky.io/v3/89d72e41-0d81-4eb9-97b3-0265995a8b81")
+    fetch("https://sarpersen.github.io/MarketShopProject/marketshop/fileJson/sliderTwo.json")
     .then(res => res.json())
     .then(data => {
       const container = document.getElementById("slider-content-2");
@@ -164,7 +164,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // SANA ÖZEL ÜRÜNLER KOLEKSİYONU  -special_products[]
 function loadSpecialProducts() {
-    fetch("https://run.mocky.io/v3/50ac6e93-7998-4788-be87-765feb73ef79")
+    fetch("https://sarpersen.github.io/MarketShopProject/marketshop/fileJson/specialprocuts.json")
       .then(res => res.json())
       .then(data => {
         const container = document.getElementById("special-products-scroll");
