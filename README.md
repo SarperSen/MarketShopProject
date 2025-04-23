@@ -2,15 +2,17 @@
 
 A front-end web project designed as an e-commerce landing page, simulating platforms like Trendyol or Hepsiburada. It presents category cards, campaign sliders, and product showcases powered by mock JSON data.
 
+Special thanks to [WeatherAPI](https://www.weatherapi.com/weather/q/izmir-2437419) for providing weather data used in the widget.
+
 ## 📌 Project Overview
 
-MarketShop is developed for educational purposes as part of a front-end web development project. It emphasizes interactive UI design, basic user interface behavior with JavaScript, and responsive styling with pure CSS.
+This project was created for the **SE 3355 Web Development** midterm. MarketShop is developed for educational purposes as part of a front-end web development project. It emphasizes interactive UI design, basic user interface behavior with JavaScript, and responsive styling with pure CSS.
 
 ## ✨ Features
 
 - **Homepage Interface** – Built using `index.html`, presenting the entire layout structure.
 - **Category Display** – Product categories shown as cards, aligned responsively.
-- **Campaign Sliders** – Dynamically rendered using data from `json_codes.json`.
+- **Campaign Sliders** – Dynamically rendered using data from `fileJson`.
 - **JSON Data Integration** – Category cards, products, and banners are pulled from a unified mock JSON file.
 - **JavaScript Functions** – Interactivity handled in `functions.js`.
 - **Icon Assets** – All icons and images stored under the `assets/` directory.
@@ -32,5 +34,5 @@ MarketShop is developed for educational purposes as part of a front-end web deve
 
 ## 🧑‍💻 Developer Note
 
-This project is built for practicing front-end layout design and mock API interaction. It doesn't include backend or dynamic server integration. Ideal for learning UI structuring, DOM manipulation, and JSON-based component rendering.
+This project is built for practicing front-end layout design and mock API interaction. It doesn't include backend or dynamic server integration. Ideal for learning UI structuring and JSON-based component rendering.
 
